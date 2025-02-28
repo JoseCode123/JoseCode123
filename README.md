@@ -1,5 +1,7 @@
 <div align="center" style="background: linear-gradient(135deg, #833ab4, #fd1d1d, #fcb045); padding: 40px; border-radius: 15px; color: white; font-family: 'Arial', sans-serif; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);">
-  <h1 style="font-size: 2.5rem; margin-bottom: 10px;">👋🏻 ¡Hola, soy José Salazar!</h1>
+  <h1 style="font-size: 2.5rem; margin-bottom: 10px;">
+    <span style="display: inline-block; animation: wave 1.5s infinite;">👋🏻</span> ¡Hola, soy José Salazar!
+  </h1>
   <h3 style="font-size: 1.5rem; margin-bottom: 20px; font-weight: 400;">Ingeniero Mecánico Administrativo | Científico de Datos en Formación</h3>
   
   <p style="font-size: 1.1rem; line-height: 1.6; max-width: 800px; margin: 0 auto 20px;">
@@ -19,4 +21,17 @@
   </p>
 </div>
 
+<style>
+  @keyframes wave {
+    0%, 100% {
+      transform: rotate(0deg);
+    }
+    25% {
+      transform: rotate(20deg);
+    }
+    75% {
+      transform: rotate(-20deg);
+    }
+  }
+</style>
 
