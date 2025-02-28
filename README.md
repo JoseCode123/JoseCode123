@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**JoseCode123/JoseCode123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1>👋 ¡Hola, soy José Salazar!</h1>
+  <h3>Ingeniero Mecánico Administrativo | Científico de Datos en Formación</h3>
+  <p>
+    💡 Desarrollo proyectos que combinan <strong>Python</strong>, <strong>Arduino</strong> e <strong>Inteligencia Artificial</strong><br>
+    para simulaciones físicas, análisis estadísticos y modelos matemáticos aplicados a emprendimientos.
+  </p>
+  <p>
+    🔍 Explorando <strong>Machine Learning</strong>, <strong>Simulaciones Gráficas</strong> y <strong>Desarrollo Web</strong>.<br>
+    Apasionado por la Filosofía, los Algoritmos Genéticos y la Visualización de Datos.
+  </p>
+  <hr>
+  <p>✨ La curiosidad impulsa mi código | Minimalismo y ciencia al servicio del conocimiento ✨</p>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
